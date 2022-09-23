@@ -23,6 +23,7 @@ Imports:
     lmtest,
     crayon,
     lavaan,
+    igraph,
     semPlot,
     semTools,
     simstandard,
